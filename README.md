@@ -1,7 +1,3 @@
-### Hi there 👋
-
-🔭 I’m currently working on project [가계부 서비스](https://github.com/boostcamp-2020/Project16-F-Account-Book/)
-
 Interested in Web development 
 
 contact : jinyoung1997@gmail.com
