@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on project [가계부 서비스](https://github.com/boostcamp-2020/Project16-F-Account-Book/)
+
+Interested in Web development 
+
+
 <!--
 **namda-on/namda-on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
