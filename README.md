@@ -1,6 +1,6 @@
 Interested in Web development 
 
-contact : jinyoung1997@gmail.com
+contact : namda1571@gmail.com
 
 <!--
 **namda-on/namda-on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
